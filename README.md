@@ -1,2 +1,3 @@
 # Pokedex
-Implementação de uma API REST com Node.js
+(Tentativa)Implementação de uma API REST com Node.js
+(Visualizar)[https://nogueira-lucas.github.io/pokedex/]
